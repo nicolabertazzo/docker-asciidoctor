@@ -7,6 +7,7 @@ ARG asciidoctor_pdf_version=2.3.4
 ARG asciidoctor_diagram_version=2.2.4
 ARG asciidoctor_epub3_version=1.5.1
 ARG asciidoctor_fb2_version=0.7.0
+
 ARG asciidoctor_mathematical_version=0.3.5
 ARG asciidoctor_revealjs_version=4.1.0
 ARG kramdown_asciidoc_version=2.1.0
